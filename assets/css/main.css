@@ -3765,5 +3765,5 @@ input, select, textarea {
 		.git{
 			text-align: center !important;
 			display: flex;
-justify-content: center;
+    justify-content: center;
 		}
